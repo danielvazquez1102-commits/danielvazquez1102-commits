@@ -5,6 +5,18 @@
 
 Comprometido con mejorar la fiabilidad y el rendimiento de productos digitales, así como optimizar procesos con pensamiento crítico y proactividad.
 
+📂 **Proyectos Destacados**
+
+ **Pruebas de regresión de Urban Routes**
+
+Elaboración y documentación de pruebas para una app de transporte, analicé los requisitos funcionales, diseñé pruebas aplicando técnicas como partición de equivalencias y valores límite, así como un informe de errores.
+
+**Resultados destacados:**
+
+  • Diseñé y ejecuté 24 casos de prueba.
+
+  • Reporté 10 errores documentados.
+  
 
 <img width="1031" height="474" alt="image" src="https://github.com/user-attachments/assets/7e28bd59-0e26-4c2f-bfaa-d76e834d8202" />
 

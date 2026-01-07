@@ -1,4 +1,17 @@
-## Hi there 👋
+## Bienvenid@ a mi portafolio
+QA ENGINEER · QA MANUAL TESTER · QA DOCUMENTADOR · QA AUTOMATIZADOR JUNIOR
+
+daniel.vazquez1102@gmail.com
+
+www.linkedin.com/in/pablo-daniel-vazquez-cordero
+
+📋 Índice
+🚀 Sobre mí
+🛠️ Tech Stack
+📂 Proyectos Destacados
+📄 CV Profesional
+📬 ¿Hablemos?
+
 
 <!--
 **danielvazquez1102-commits/danielvazquez1102-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

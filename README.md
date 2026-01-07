@@ -1,13 +1,7 @@
 ## Bienvenid@ a mi portafolio
 **QA ENGINEER · QA MANUAL TESTER · QA DOCUMENTADOR · QA AUTOMATIZADOR JUNIOR**
 
-
-📋 Índice
-🚀 Sobre mí
-🛠️ Tech Stack
-📂 Proyectos Destacados
-📄 CV Profesional
-📬 ¿Hablemos?
+**Junior QA Engineer** en proceso de formación con experiencia práctica en el diseño de casos de prueba, pruebas API, reporte de bugs y metodologías agiles. Comprometido con mejorar la fiabilidad y el rendimiento de productos digitales. Competente en pruebas manuales y automatizadas. Uso de Jira / TestRail (Intermedio), Selenium / Cypress (Básico).
 
 
 <!--

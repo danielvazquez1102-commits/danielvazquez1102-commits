@@ -1,9 +1,6 @@
 ## Bienvenid@ a mi portafolio
-QA ENGINEER · QA MANUAL TESTER · QA DOCUMENTADOR · QA AUTOMATIZADOR JUNIOR
+**QA ENGINEER · QA MANUAL TESTER · QA DOCUMENTADOR · QA AUTOMATIZADOR JUNIOR**
 
-"daniel.vazquez1102@gmail.com"
-
-"www.linkedin.com/in/pablo-daniel-vazquez-cordero"
 
 📋 Índice
 🚀 Sobre mí

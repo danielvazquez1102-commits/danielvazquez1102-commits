@@ -6,6 +6,9 @@
 Comprometido con mejorar la fiabilidad y el rendimiento de productos digitales, así como optimizar procesos con pensamiento crítico y proactividad.
 
 
+https://loom.com/i/891bc9a14ebb4c2abb19cde8d9afd381
+
+
 <!--
 **danielvazquez1102-commits/danielvazquez1102-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

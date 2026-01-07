@@ -6,7 +6,8 @@
 Comprometido con mejorar la fiabilidad y el rendimiento de productos digitales, así como optimizar procesos con pensamiento crítico y proactividad.
 
 
-https://loom.com/i/891bc9a14ebb4c2abb19cde8d9afd381
+<img width="1031" height="474" alt="image" src="https://github.com/user-attachments/assets/7e28bd59-0e26-4c2f-bfaa-d76e834d8202" />
+
 
 
 <!--
